@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO    # Import Raspberry Pi GPIO library
+import RPi.GPIO as GPIO
 from time import sleep 
 
 GPIO.setwarnings(True)
